@@ -22,6 +22,7 @@ To clone all repositories from the organization let's use<br>
 3. ***akhq*** External port 9090
 <br>
 <br>
+
 and temporarily ***init-kafka*** container to fill out 2 topics:
 - jacp-competition-solutions
 - jacp-competition-results
